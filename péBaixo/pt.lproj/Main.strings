@@ -1,0 +1,102 @@
+
+/* Class = "IBUILabel"; text = "Contate loja para confirmar disponibilidade"; ObjectID = "8E1-ly-vEV"; */
+"8E1-ly-vEV.text" = "Contate loja para confirmar disponibilidade";
+
+/* Class = "IBUIBarButtonItem"; title = "voltar"; ObjectID = "8h6-U2-vpk"; */
+"8h6-U2-vpk.title" = "voltar";
+
+/* Class = "IBUILabel"; text = "Ordenar por:"; ObjectID = "B3v-2j-uCF"; */
+"B3v-2j-uCF.text" = "Ordenar por:";
+
+/* Class = "IBUILabel"; text = "km"; ObjectID = "FeM-kq-KL8"; */
+"FeM-kq-KL8.text" = "km";
+
+/* Class = "IBUIBarButtonItem"; title = "voltar"; ObjectID = "GTU-AH-3zT"; */
+"GTU-AH-3zT.title" = "voltar";
+
+/* Class = "IBUINavigationItem"; title = "Recentes"; ObjectID = "Htc-IV-7bI"; */
+"Htc-IV-7bI.title" = "Recentes";
+
+/* Class = "IBUISearchBar"; placeholder = "procure seu produto aqui"; ObjectID = "KWE-t8-hq8"; */
+"KWE-t8-hq8.placeholder" = "procure seu produto aqui";
+
+/* Class = "IBUISegmentedControl"; NC1-Ye-GbA.segmentTitles[0] = "Feminino"; ObjectID = "NC1-Ye-GbA"; */
+"NC1-Ye-GbA.segmentTitles[0]" = "Feminino";
+
+/* Class = "IBUISegmentedControl"; NC1-Ye-GbA.segmentTitles[1] = "Masculino"; ObjectID = "NC1-Ye-GbA"; */
+"NC1-Ye-GbA.segmentTitles[1]" = "Masculino";
+
+/* Class = "IBUINavigationItem"; title = "Favoritos"; ObjectID = "Nv1-7C-I2O"; */
+"Nv1-7C-I2O.title" = "Favoritos";
+
+/* Class = "IBUILabel"; text = "Endereço:"; ObjectID = "RDa-xh-SCp"; */
+"RDa-xh-SCp.text" = "Endereço:";
+
+/* Class = "IBUISegmentedControl"; Ti6-iR-Q6u.segmentTitles[0] = "Feminino"; ObjectID = "Ti6-iR-Q6u"; */
+"Ti6-iR-Q6u.segmentTitles[0]" = "Feminino";
+
+/* Class = "IBUISegmentedControl"; Ti6-iR-Q6u.segmentTitles[1] = "Masculino"; ObjectID = "Ti6-iR-Q6u"; */
+"Ti6-iR-Q6u.segmentTitles[1]" = "Masculino";
+
+/* Class = "IBUISegmentedControl"; UMd-vS-Efp.segmentTitles[0] = "Distância"; ObjectID = "UMd-vS-Efp"; */
+"UMd-vS-Efp.segmentTitles[0]" = "Distância";
+
+/* Class = "IBUISegmentedControl"; UMd-vS-Efp.segmentTitles[1] = "Maior Preço "; ObjectID = "UMd-vS-Efp"; */
+"UMd-vS-Efp.segmentTitles[1]" = "Maior Preço ";
+
+/* Class = "IBUISegmentedControl"; UMd-vS-Efp.segmentTitles[2] = "Menor Preço"; ObjectID = "UMd-vS-Efp"; */
+"UMd-vS-Efp.segmentTitles[2]" = "Menor Preço";
+
+/* Class = "IBUILabel"; text = "Lojas que vendem este produto"; ObjectID = "Vbl-dh-7EA"; */
+"Vbl-dh-7EA.text" = "Lojas que vendem este produto";
+
+/* Class = "IBUIBarButtonItem"; title = "voltar"; ObjectID = "VsT-fM-jm6"; */
+"VsT-fM-jm6.title" = "voltar";
+
+/* Class = "IBUILabel"; text = "30"; ObjectID = "W4K-bZ-PgS"; */
+"W4K-bZ-PgS.text" = "30";
+
+/* Class = "IBUINavigationItem"; title = "Configurações"; ObjectID = "Zah-KM-dxa"; */
+"Zah-KM-dxa.title" = "Configurações";
+
+/* Class = "IBUIBarButtonItem"; title = "voltar"; ObjectID = "cMy-Sr-A7x"; */
+"cMy-Sr-A7x.title" = "voltar";
+
+/* Class = "IBUINavigationItem"; title = "Busca"; ObjectID = "cQY-MO-xBm"; */
+"cQY-MO-xBm.title" = "Busca";
+
+/* Class = "IBUIButton"; normalTitle = "Favori"; ObjectID = "dlQ-YF-mgJ"; */
+"dlQ-YF-mgJ.normalTitle" = "Favori";
+
+/* Class = "IBUILabel"; text = "Raio:"; ObjectID = "dnj-y7-DPK"; */
+"dnj-y7-DPK.text" = "Raio:";
+
+/* Class = "IBUILabel"; text = "Informações da loja"; ObjectID = "ecR-bA-5bJ"; */
+"ecR-bA-5bJ.text" = "Informações da loja";
+
+/* Class = "IBUILabel"; text = "Versão 1.0"; ObjectID = "eds-2T-tLm"; */
+"eds-2T-tLm.text" = "Versão 1.0";
+
+/* Class = "IBUILabel"; text = "Telefone:"; ObjectID = "eqw-yK-vNi"; */
+"eqw-yK-vNi.text" = "Telefone:";
+
+/* Class = "IBUIButton"; normalTitle = "Como chegar"; ObjectID = "hzW-AI-OLZ"; */
+"hzW-AI-OLZ.normalTitle" = "Como chegar";
+
+/* Class = "IBUIBarButtonItem"; title = "OK"; ObjectID = "kdm-k2-neK"; */
+"kdm-k2-neK.title" = "OK";
+
+/* Class = "IBUILabel"; text = " "; ObjectID = "kzu-Iu-1ba"; */
+"kzu-Iu-1ba.text" = " ";
+
+/* Class = "IBUIButton"; normalTitle = "reca"; ObjectID = "nqM-z1-5ww"; */
+"nqM-z1-5ww.normalTitle" = "reca";
+
+/* Class = "IBUIBarButtonItem"; title = "voltar"; ObjectID = "t41-q6-TNk"; */
+"t41-q6-TNk.title" = "voltar";
+
+/* Class = "IBUINavigationItem"; title = "produto"; ObjectID = "tJv-eN-Xdc"; */
+"tJv-eN-Xdc.title" = "produto";
+
+/* Class = "IBUIBarButtonItem"; title = "voltar"; ObjectID = "viL-DQ-v9N"; */
+"viL-DQ-v9N.title" = "voltar";
